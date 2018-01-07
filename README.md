@@ -2,12 +2,10 @@ Email Client Application
 ========================
 Final Project Pemrograman Jaringan D
 
--------------
 Deskripsi : 
 -------------
 Email Client Application merupakan aplikasi untuk mengirim email serta melihat email terbaru user. Aplikasi ini dibuat dengan menggunakan bahasa pemrograman *Python*.
 
--------------
 Requirements : 
 -------------
 ```
@@ -15,7 +13,6 @@ Requirements :
 2. Tkinter
 ```
 
--------------
 Penggunaan : 
 -------------
 Jalankan file email-client.py
